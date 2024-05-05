@@ -26,6 +26,7 @@ git clone <repo_url>
  - Create database named `banking_management_system`.
  - Create table named `accounts`.
  - In DB.java file, put your database password.
+ - Add [MySQL jar](mysql-connector-j-8.4.0.jar) file in Referenced Libraries in Java Projects in VS Code.
 
 3. Compile and run the Java application:
 ```
