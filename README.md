@@ -22,8 +22,10 @@ git clone <repo_url>
 ```
 
 2. Set up MySQL Database:
+ - Look at my database set up first [here](Database_layout.png)
  - Create database named `banking_management_system`.
- - Run the SQL script provided in `database_script.sql` to create the necessary tables.
+ - Create table named `accounts`.
+ - In DB.java file, put your database password.
 
 3. Compile and run the Java application:
 ```
