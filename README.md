@@ -11,6 +11,7 @@ A simple banking management system implemented in Java with JDBC and MySQL. This
 
 ## Technologies Used
 - Java
+- OOPs (Object Oriented Programming)
 - JDBC (Java Database Connectivity)
 - MySQL
 
